@@ -87,6 +87,7 @@ For media Queries we use em instand of rem. And the calculation is the same
   
   html {
     font-size: 50%;
+    overflow-x: hidden;
   }
 
   .hero {
